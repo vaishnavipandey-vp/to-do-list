@@ -1,0 +1,78 @@
+body{
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url('emma-matthews-digital-content-production-p6g6S_kXkFc-unsplash.jpg');
+    background-size: 100%;
+   
+}
+h1{
+    color:white;
+    font-style: italic;
+    padding-bottom: 13px;
+    
+}
+#h{
+   color:black;
+}
+#add{
+    border:0;
+    background-color:yellow;
+    outline:none;
+    color:black;
+    padding:5px;
+    border-radius: 5px;
+    cursor:pointer;
+    width:90px;
+    height:35px;
+}
+
+#task{
+    outline:none;
+    border-radius: 5px;
+    width:200px;
+    height:30px;
+}
+
+#items{
+    list-style: none;
+    font-size: 20px;
+    color:white;
+    text-align:left;
+    line-height: 40px;
+    margin-left: 40px;
+
+}
+
+.remove{ 
+    border:0;
+    background-color:red;
+    outline:none;
+    color: #FFFFFF;
+    padding:5px;
+    border-radius: 5px;
+    cursor:pointer;
+    width:90px;
+    height:35px;
+    float: right;
+    clear: both;
+    margin-right: 69px;
+    margin-top: 7px;
+    
+}
+
+
+#wrapper{
+    width: 440px;
+
+    background: rgb(0,114,122);
+    background: linear-gradient(140deg, rgba(0,114,122,1) 20%, rgba(12,199,213,0.8242647400757178) 88%);
+
+    opacity: 0.9;
+    margin:auto;
+    margin-top:90px;
+    
+    border-radius: 10px;
+    padding: 40px 20px;
+ 
+}
+
